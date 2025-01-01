@@ -1,5 +1,5 @@
 {
-    "token": "",
+    "token": "MTIyNjEzODkyMDY1NjU2ODMzMA.GiSSDY.Xrb9W0Uedukz0JkfyMdsGjzzuZXCUkcTCEMKKc",
     "language": "en",
     "prefix": "!",
     "mongodbUri": "",
@@ -7,7 +7,7 @@
     "excessCommands": {
         "utility": true,
         "other": true,
-        "hentai": true,
+        "hentai": false,
         "lavalink": true,
         "troll": true
     },
